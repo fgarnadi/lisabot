@@ -2,7 +2,7 @@
 
 Lisa bot is an assistant that can help your developer team to collaborate better
 
-![Lisa bot Logo](lisabot.jpg)
+![Lisa bot Logo](https://github.com/JTKCode/lisabot/blob/master/assets/images/lisabot-logo.png)
 
 ## How to start ? How to use ?
 
